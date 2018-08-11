@@ -1,0 +1,2 @@
+# py-checkio
+checkio-pratise
